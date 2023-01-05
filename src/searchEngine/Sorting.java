@@ -1,4 +1,4 @@
-package finalproject;
+package searchEngine;
 
 import java.util.ArrayList;
 import java.util.HashMap;
