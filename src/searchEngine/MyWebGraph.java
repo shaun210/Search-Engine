@@ -12,7 +12,7 @@ public class MyWebGraph {
 	
 	
 	/*
-	 * add a vertex given a url.
+	 * Add a vertex given a url.
 	 * returns true if the graph has changed as a result of this operation
 	 * false otherwise. 
 	 */
